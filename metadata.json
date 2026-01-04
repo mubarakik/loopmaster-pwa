@@ -1,0 +1,7 @@
+{
+  "name": "LoopMaster PWA",
+  "description": "A professional-grade media looper for musicians, students, and editors. Select segments (A-B) from local files or YouTube to focus, practice, or analyze.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
